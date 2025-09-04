@@ -99,8 +99,7 @@ Logs are saved in Logs/log_info.log
 
 Example:
 
-yaml
-Copy code
+
 2025-09-04 18:05:23 - hibernate because of restricted hours.
 ⚠️ Warning
 This script forces shutdown/hibernate.
@@ -109,8 +108,6 @@ Make sure to save your work before restricted hours, otherwise unsaved progress 
 📌 License
 This project is open-source. You can modify and use it for personal productivity or parental control.
 
-yaml
-Copy code
 
 ---
 
